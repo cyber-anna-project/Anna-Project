@@ -1,0 +1,26 @@
+# Folder Sampah/Sistem
+.buildozer/
+bin/
+.cache/
+.cargo/
+.config/
+.dbus/
+.gnupg/
+.kivy/
+.ssh/
+.termux/
+storage/
+
+# File Kredensial (SANGAT PENTING)
+.env
+.git-credentials
+.gitconfig
+.bash_history
+.bashrc
+.python_history
+
+# Data Pribadi
+*.db
+*.txt
+*.json
+*.mp3

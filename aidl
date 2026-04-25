@@ -1,0 +1,1 @@
+.buildozer/android/platform/android-sdk/build-tools/37.0.0/aidl
