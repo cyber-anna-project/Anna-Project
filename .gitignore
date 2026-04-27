@@ -24,3 +24,8 @@ storage/
 *.txt
 *.json
 *.mp3
+.env
+anna_memory.db
+anna_memory_backup.db
+security.log
+secret.key
